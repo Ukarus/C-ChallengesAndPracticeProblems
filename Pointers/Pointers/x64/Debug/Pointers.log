@@ -1,0 +1,2 @@
+﻿  Pointers.cpp
+C:\Users\juanj\source\repos\Pointers\Pointers\Pointers.cpp(24,6): error C3892: 'zPtr': no se puede asignar a una variable constante

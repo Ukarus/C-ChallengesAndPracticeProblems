@@ -1,0 +1,3 @@
+﻿  Hangman.cpp
+C:\Users\juanj\source\repos\Hangman\Hangman\Hangman.cpp(137,33): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Hangman.vcxproj -> C:\Users\juanj\source\repos\Hangman\x64\Debug\Hangman.exe

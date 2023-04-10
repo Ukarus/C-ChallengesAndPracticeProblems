@@ -1,0 +1,5 @@
+﻿  PracticeProblemsSection5.cpp
+C:\Users\juanj\source\repos\PracticeProblemsSection5\PracticeProblemsSection5\PracticeProblemsSection5.cpp(209,20): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\juanj\source\repos\PracticeProblemsSection5\PracticeProblemsSection5\PracticeProblemsSection5.cpp(216,35): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\juanj\source\repos\PracticeProblemsSection5\PracticeProblemsSection5\PracticeProblemsSection5.cpp(410,25): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  PracticeProblemsSection5.vcxproj -> C:\Users\juanj\source\repos\PracticeProblemsSection5\x64\Debug\PracticeProblemsSection5.exe

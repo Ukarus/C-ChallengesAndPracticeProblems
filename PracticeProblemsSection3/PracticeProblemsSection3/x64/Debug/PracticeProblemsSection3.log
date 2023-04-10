@@ -1,0 +1,10 @@
+﻿  PracticeProblemsSection3.cpp
+C:\Users\juanj\source\repos\PracticeProblemsSection3\PracticeProblemsSection3\PracticeProblemsSection3.cpp(62,20): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\juanj\source\repos\PracticeProblemsSection3\PracticeProblemsSection3\PracticeProblemsSection3.cpp(63,27): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\juanj\source\repos\PracticeProblemsSection3\PracticeProblemsSection3\PracticeProblemsSection3.cpp(64,26): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\juanj\source\repos\PracticeProblemsSection3\PracticeProblemsSection3\PracticeProblemsSection3.cpp(65,22): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\juanj\source\repos\PracticeProblemsSection3\PracticeProblemsSection3\PracticeProblemsSection3.cpp(66,28): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\juanj\source\repos\PracticeProblemsSection3\PracticeProblemsSection3\PracticeProblemsSection3.cpp(67,25): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\juanj\source\repos\PracticeProblemsSection3\PracticeProblemsSection3\PracticeProblemsSection3.cpp(68,26): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\juanj\source\repos\PracticeProblemsSection3\PracticeProblemsSection3\PracticeProblemsSection3.cpp(69,25): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  PracticeProblemsSection3.vcxproj -> C:\Users\juanj\source\repos\PracticeProblemsSection3\x64\Debug\PracticeProblemsSection3.exe
